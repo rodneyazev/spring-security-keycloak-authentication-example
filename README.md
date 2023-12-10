@@ -20,10 +20,6 @@ Docker: https://github.com/rodneyazev/docker-examples/tree/main/keycloak
 ## Keycloack - Create client
 
 <p align="center">
-  <img src="https://i.imgur.com/V9R6LEe.png" width="300" alt="Create realm image" />
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/ASinJQY.png" width="400" alt="Create client 1 image" />
 </p>
 
