@@ -42,7 +42,7 @@ Link: http://localhost:8080/realms/keycloak-api
 ## Keycloack - Client secret
 
 <p align="center">
-  <img src="https://i.imgur.com/V9R6LEe.png" width="300" alt="Create realm image" />
+  <img src="https://i.imgur.com/3gNd2Ac.png" width="400" alt="Create realm image" />
 </p>
 
 
